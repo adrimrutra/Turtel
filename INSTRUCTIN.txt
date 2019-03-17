@@ -1,0 +1,18 @@
+===========================================================================================
+============ Before starting the program you have to do the folowing steps. ===============
+===========================================================================================
+
+
+-------------------------------------------------------------------------------------------
+Please Copy the following files into directory, from where the program  will be executed:
+
+                                     1. Turtle.exe
+                                     2. Turtle.exe.config
+                                     3. TurtleLibrary.dll
+                                     4. TurtleLogger.dll
+-------------------------------------------------------------------------------------------
+When those four file was provided then the program can be executed using PowerShell tool.
+
+
+
+Thank you.
